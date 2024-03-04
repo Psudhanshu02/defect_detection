@@ -1,0 +1,10 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+nc: 4
+
+test: /home/fatninja/Desktop/defectDetection/crack_detection-1/test/images
+train: /home/fatninja/Desktop/defectDetection/crack_detection-1/train/images
+val: /home/fatninja/Desktop/defectDetection/crack_detection-1/valid/images
